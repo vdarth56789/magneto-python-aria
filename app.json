@@ -75,7 +75,7 @@
         "description": "    Your password for your mega.nz account.",
         "required": false
       },
-	  "AUTH_CHATS": {
+      "AUTH_CHATS": {
         "description": "    Group Chat ID for the Bot Authorization.",
         "required": false
       }
