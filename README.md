@@ -34,7 +34,7 @@ Note :- it is not a Bot Support group. It's only for discussing rubbish things b
 3. Fix SSL handsake error
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
