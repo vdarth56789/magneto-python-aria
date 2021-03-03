@@ -78,6 +78,10 @@
       "AUTH_CHATS": {
         "description": "    Group Chat ID for the Bot Authorization.",
         "required": false
-      }
+      },
+      "STOP_DUPLICATE_MIRROR": {
+        "description": "    Set it to True if you wanna Stop Duplicate downloads.",
+        "required": false
+      } 	      
     }
 }
